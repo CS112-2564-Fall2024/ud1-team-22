@@ -1,3 +1,6 @@
+//Author: Caden Clark
+//AI was used to aid in this project
+
 public class Meal extends MealTester{
     
     private String mealHealth;
